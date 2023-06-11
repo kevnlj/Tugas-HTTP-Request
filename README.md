@@ -1,3 +1,7 @@
+Nama  : Kevin Leonardo Julianto <br/>
+NIM   : 215150701111039 <br/>
+Kelas : PAM - A<br/><br/>
+
 Aplikasi Monitoring Cuaca <br/>
 ![image](https://github.com/Aither-24/WeatherApp/assets/100508741/b4cf2466-8e6f-4c01-aef1-b4ca93524de0)
 
